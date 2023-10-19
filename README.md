@@ -46,7 +46,7 @@ S: Shuffle player shield and dragon assignments randomly
 
 Z: Flip player shield and dragon assignments
 
-Q: Toggle auto generation mode
+Q: Toggle auto generation mode (Not implemented)
 
 _Modes_
 

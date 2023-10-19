@@ -29,17 +29,27 @@ This changes the emergent behavior as a whole to become more responsive and rapi
 _Controls_
 
 Mouse: Move the screen, zoom in and out, select various players 
+
 C: Deselect current selected actor
+
 Space: Start and stop simulation time
+
 P: Generate a normally distributed random population evenly spread across the viewport
+
 R: Remove all players
+
 X: Remove all players who are not safe
+
 G: Generate back up to population size by crossing exisiting player properties
+
 S: Shuffle player shield and dragon assignments randomly
+
 Z: Flip player shield and dragon assignments
+
 Q: Toggle auto generation mode
 
 _Modes_
+
 K: Hold and click players to selectively remove them
 
 M: Hold and click the screen to generate discrete player (up and down arrows for more placed per click)

@@ -41,9 +41,13 @@ Q: Toggle auto generation mode
 
 _Modes_
 K: Hold and click players to selectively remove them
+
 M: Hold and click the screen to generate discrete player (up and down arrows for more placed per click)
+
 D: Hold while a player is selected and select another to assign its dragon
+
 B: Hold while a player is selected and select another to assign its shield
+
 A: Hold while using Shield Assignment or D
 
 
